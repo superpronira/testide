@@ -10,6 +10,6 @@ public class TestideApplication {
         SpringApplication.run(TestideApplication.class, args);
         System.out.println("первое приложение в idea 25");
         System.out.println("Второй коммит из Git");
-        System.out.println("еще одня строка");
+        System.out.println("еще одня строка изменена");
     }
 }
